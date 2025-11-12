@@ -1,0 +1,34 @@
+# 通用忽略规则（根级）
+
+# Node.js
+node_modules/
+dist/
+build/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 环境变量文件（请使用本地 .env，不要入库）
+.env
+.env.*
+frontend/.env*
+integration/.env*
+integration/secrets.local.md
+
+# Mac 与编辑器
+.DS_Store
+.idea/
+.vscode/
+
+# 前端构建产物
+frontend/dist/
+frontend/.vite/
+
+# 临时/缓存
+**/.cache/
+
+# 测试与打包产物
+e2e/results/
+zip/
+ccc-submission-web.zip

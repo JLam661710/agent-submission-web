@@ -1,0 +1,10 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* 基础全局样式：移动端优先 */
+html, body, #root { height: 100%; }
+body {
+  background-color: #ffffff; /* 等效于 tailwind bg-white */
+  color: #111827; /* 等效于 tailwind text-gray-900 */
+}

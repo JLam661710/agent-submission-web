@@ -1,0 +1,20 @@
+{
+  "nickname": "E2E测试用户",
+  "role_tags": "开发者, 产品经理",
+  "recent_annoyance": "调研数据分散、重复录入",
+  "skills": "前端、数据分析",
+  "interest_score": 8,
+  "interest_description": "希望自动结构化问卷并生成可执行建议",
+  "learning_attitude_sc": 7,
+  "people_around_challe": "团队人手不足",
+  "community_voices": "社区希望开放API以便集成",
+  "collaboration_prefer": "B",
+  "tool_idea": "自动摘要+报告生成+任务清单",
+  "confidence_score": 6,
+  "learning_goal": "三周完成PoC",
+  "challenges": [
+    { "description": "数据清洗复杂", "score": 7 },
+    { "description": "工作流编排难度", "score": 6 },
+    { "description": "跨平台集成", "score": 5 }
+  ]
+}

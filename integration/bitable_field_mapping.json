@@ -1,0 +1,33 @@
+{
+  "app_token": "Q7WibVCQHaFFDosqhB0cWqSnnVe",
+  "table_id": "tbl4PcJtRVxb1BbC",
+  "view_id": "vew1rO1ufX",
+  "fields": {
+    "submitted_at": {"field_id": "fldh9H1cJf", "name": "提交时间", "type": "DateTime"},
+    "submission_id": {"field_id": "fldVSbk7OW", "name": "唯一提交ID", "type": "Text"},
+    "nickname": {"field_id": "fldkHNsvKq", "name": "昵称", "type": "Text"},
+    "role_tags": {"field_id": "fldGb5Y3eW", "name": "角色标签", "type": "Text"},
+    "recent_annoyance": {"field_id": "fldwuyNuHr", "name": "最近的小烦恼", "type": "Text"},
+    "skills": {"field_id": "fldTQ7Oo38", "name": "技能超能力", "type": "Text"},
+    "interest_score": {"field_id": "fldtcTZkrd", "name": "兴趣热度分数", "type": "Number"},
+    "interest_description": {"field_id": "fldDEIJCXd", "name": "兴趣热度说明", "type": "Text"},
+    "learning_attitude_sc": {"field_id": "fldPjvyqVR", "name": "学习新事物态度分数", "type": "Number"},
+    "people_around_challe": {"field_id": "fldqVZUYpS", "name": "身边人的日常挑战", "type": "Text"},
+    "community_voices": {"field_id": "fldU60qOwj", "name": "社区共同声音", "type": "Text"},
+    "collaboration_prefer": {"field_id": "fldd14w44P", "name": "合作风格偏好", "type": "SingleSelect"},
+    "tool_idea": {"field_id": "fldCGLxlyr", "name": "智能工具构想", "type": "Text"},
+    "confidence_score": {"field_id": "fldumlADIH", "name": "落地信心指数分数", "type": "Number"},
+    "challenge_1": {"field_id": "fld7FlO9FD", "name": "挑战障碍1", "type": "Text"},
+    "challenge_1_score": {"field_id": "fldIRC5XU3", "name": "挑战障碍1分数", "type": "Number"},
+    "challenge_2": {"field_id": "fldpqO7DXE", "name": "挑战障碍2", "type": "Text"},
+    "challenge_2_score": {"field_id": "fldMScb5eH", "name": "挑战障碍2分数", "type": "Number"},
+    "challenge_3": {"field_id": "fldS5m9wP2", "name": "挑战障碍3", "type": "Text"},
+    "challenge_3_score": {"field_id": "fld2aFzPyx", "name": "挑战障碍3分数", "type": "Number"},
+    "learning_goal": {"field_id": "fldfw209qC", "name": "学习指南针", "type": "Text"},
+
+    "coze_easyprogramme": {"field_id": "fld8pwqVXk", "name": "Coze 易读方案", "type": "Text"},
+    "coze_image": {"field_id": "fldkbjLQZK", "name": "Coze 配图 URL", "type": "Url"},
+    "coze_programme": {"field_id": "fldwG4wOaF", "name": "Coze 多维价值选题方案", "type": "Text"},
+    "coze_report": {"field_id": "fldWyA9QX4", "name": "Coze 相关性话题报告", "type": "Text"}
+  }
+}
